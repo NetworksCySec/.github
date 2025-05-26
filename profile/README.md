@@ -31,7 +31,7 @@ J’interviens principalement dans des compétitions CTF et mène une veille con
 ### 🦏 Medileak 2 CTF — **mai 2025**
 
 - Participation en solo sous le nom d'équipe *OneForAll*
-- Résultat 🥇 : **Top 17/134** en étant premier des personnes seules
+- Résultat 🥇 : **Top 17/134** en étant premier en **solo**
 - Investigation complète autour d’un leak médical fictif
 - Rédaction d’un write-up complet disponible le 3 Juin.
 
