@@ -35,7 +35,7 @@ J’interviens principalement dans des compétitions CTF et mène une veille con
 - Investigation complète autour d’un leak médical fictif
 - Rédaction d’un write-up complet disponible le 3 Juin.
 
-### 🪖 Bleuet de France — **mai 2025**
+### 🪖 Bleuet de France v4 — **mai 2025**
 
 - Participation en solo sous le nom d'équipe *OneForAll*
 - Résultat 🥇 : Pas de résultat attendu, CTF historique et mémoriel
