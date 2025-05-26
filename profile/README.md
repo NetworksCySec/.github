@@ -19,7 +19,7 @@ J’interviens principalement dans des compétitions CTF et mène une veille con
 
 ---
 
-## 🏆 Participation et résultat (depuis mai 2025)
+## 🏆 Participations et résultats (depuis mai 2025)
 
 ### 🦊 Hack'Osint 2 — **mai 2025**
 
