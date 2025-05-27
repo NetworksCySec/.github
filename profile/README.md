@@ -7,6 +7,8 @@
 Passionné de cybersécurité de manière générale et spécialisé en **renseignement d’origine open source (OSINT)**.  
 J’interviens principalement dans des compétitions CTF et mène une veille constante sur les techniques d’investigation numérique pour le moment avec une envie de partager et de m'améliorer en continue.
 
+Ici tu peux retrouver ce que j'ai fait en Osint mais aussi mes projets en cybersécurité.
+
 ---
 
 ## 🧰 Ce que je fais
