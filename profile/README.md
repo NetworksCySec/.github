@@ -63,7 +63,7 @@ Sur ce profil GitHub, vous trouverez :
 | 🛡️ Infra DGSI-like | Architecture SI | Infra complète durcie (AD, Vault, CI/CD, Wazuh, segmentation) |
 | 🕵️ Intrusion physique | RedTeam | Formation et simulation d’attaque physique type militaire |
 
-➡️ Tous les projets sont documentés et organisés dans le dossier `cybersecurite/`
+➡️ Tous les projets sont documentés et organisés dans le dossier `cybersecurity/`
 
 ---
 
