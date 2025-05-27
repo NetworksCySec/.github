@@ -5,9 +5,14 @@
 ## 👤 Qui suis-je ?
 
 Passionné de cybersécurité de manière générale et spécialisé en **renseignement d’origine open source (OSINT)**.  
-J’interviens principalement dans des compétitions CTF et mène une veille constante sur les techniques d’investigation numérique pour le moment avec une envie de partager et de m'améliorer en continue.
+J’interviens dans des **compétitions CTF**, des projets techniques offensifs et défensifs, et je mène une **veille constante** sur les techniques d’investigation numérique.  
+J’ai à cœur de documenter et partager mon travail, tout en continuant à progresser sur des cas concrets.
 
-Ici tu peux retrouver ce que j'ai fait en Osint mais aussi mes projets en cybersécurité.
+Sur ce profil GitHub, vous trouverez :
+- Tout ce que je fais en **OSINT**
+- Mes **projets cybersécurité** défensifs (SI sécurisés, lockdown, durcissement)
+- Des travaux **RedTeam / intrusion physique**
+- Et bientôt d’autres contributions à des outils et analyses techniques
 
 ---
 
@@ -15,9 +20,11 @@ Ici tu peux retrouver ce que j'ai fait en Osint mais aussi mes projets en cybers
 
 - 🕵️‍♂️ Enquêtes OSINT et CTF
 - 🧠 Renseignement sur les menaces (Threat Intelligence)
-- 📜 Rédaction de rapports et write-ups techniques
+- 🔐 Architecture & durcissement système (Linux/Windows)
 - 🧩 Investigations numériques éthiques
-- 🛰️ Veille technologique
+- 🛡️ Projets cybersécurité offensifs et défensifs
+- 🛰️ Veille technologique continue
+- 📜 Rédaction de rapports et write-ups techniques
 
 ---
 
@@ -29,7 +36,7 @@ Ici tu peux retrouver ce que j'ai fait en Osint mais aussi mes projets en cybers
 - Résultat 🥇 : **Top 3/378** et qualifié pour la grande finale
 - Seulement 9 équipes ont fini entièrement
 - Investigation complète autour de hackers recherchés (fictif)
-- Rédaction d’un write-up complet disponible ici [Inserer WU]
+- Rédaction d’un write-up complet disponible ici [Insérer lien]
 
 ### 🦏 Medileak 2 CTF — **mai 2025**
 
@@ -37,15 +44,27 @@ Ici tu peux retrouver ce que j'ai fait en Osint mais aussi mes projets en cybers
 - Résultat 🥇 : **Top 17/134** en étant premier en **solo**
 - Seulement 22 équipes ont fini entièrement
 - Investigation complète autour d’un leak médical fictif
-- Rédaction d’un write-up complet disponible le 3 Juin.
+- Rédaction d’un write-up complet disponible le 3 Juin
 
 ### 🪖 Bleuet de France v4 CTF — **mai 2025**
 
 - Participation en solo sous le nom d'équipe *OneForAll*
 - Résultat 🥇 : Pas de résultat attendu, CTF historique et mémoriel
 - Investigation autour de la Seconde Guerre mondiale
-- Rédaction d’un write-up complet disponible ici [Inserer WU].
-  
+- Rédaction d’un write-up complet disponible ici [Insérer lien]
+
+---
+
+## 🧱 Projets cybersécurité (en cours et à venir)
+
+| 📌 Projet | Thématique | Description rapide |
+|----------|------------|--------------------|
+| 🔐 ConnectHub | Dev sécurisé | Site collaboratif sécurisé : MFA, segmentation, livraison chiffrée |
+| 🛡️ Infra DGSI-like | Architecture SI | Infra complète durcie (AD, Vault, CI/CD, Wazuh, segmentation) |
+| 🕵️ Intrusion physique | RedTeam | Formation et simulation d’attaque physique type militaire |
+
+➡️ Tous les projets sont documentés et organisés dans le dossier `cybersecurite/`
+
 ---
 
 ## 📡 Contacte-moi ici
@@ -56,4 +75,4 @@ Ici tu peux retrouver ce que j'ai fait en Osint mais aussi mes projets en cybers
 ---
 
 <!-- Hashtags pour référencement -->
-#OSINT #Cybersecurity #CTF #ThreatIntelligence #Investigation #Renseignement
+#OSINT #Cybersecurity #CTF #RedTeam #ThreatIntelligence #Investigation #Renseignement
