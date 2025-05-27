@@ -25,6 +25,7 @@ J’interviens principalement dans des compétitions CTF et mène une veille con
 
 - Participation en équipe sous le nom *Osint Special Squad 117*
 - Résultat 🥇 : **Top 3/378** et qualifié pour la grande finale
+- Seulement 9 équipes ont fini entièrement
 - Investigation complète autour de hackers recherchés (fictif)
 - Rédaction d’un write-up complet disponible ici [Inserer WU]
 
@@ -32,6 +33,7 @@ J’interviens principalement dans des compétitions CTF et mène une veille con
 
 - Participation en solo sous le nom d'équipe *OneForAll*
 - Résultat 🥇 : **Top 17/134** en étant premier en **solo**
+- Seulement 22 équipes ont fini entièrement
 - Investigation complète autour d’un leak médical fictif
 - Rédaction d’un write-up complet disponible le 3 Juin.
 
