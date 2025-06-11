@@ -36,7 +36,7 @@ Sur ce profil GitHub, vous trouverez :
 - Résultat 🥇 : **Top 3/378** et qualifié pour la grande finale
 - Seulement 9 équipes ont fini entièrement
 - Investigation complète autour de hackers recherchés (fictif)
-- Rédaction d’un write-up complet disponible ici [Insérer lien]
+- Rédaction d’un write-up complet disponible [ici](https://github.com/NetworksCySec/OSINT/tree/main/Hack'Osint%202%20-%202025)
 
 ### 🦏 Medileak 2 CTF — **mai 2025**
 
@@ -44,14 +44,14 @@ Sur ce profil GitHub, vous trouverez :
 - Résultat 🥇 : **Top 17/134** en étant premier en **solo**
 - Seulement 22 équipes ont fini entièrement
 - Investigation complète autour d’un leak médical fictif
-- Rédaction d’un write-up complet disponible le 3 Juin
+- Rédaction d’un write-up complet disponible [ici](https://github.com/NetworksCySec/OSINT/tree/main/Medileak%202%20-%202025)
 
 ### 🪖 Bleuet de France v4 CTF — **mai 2025**
 
 - Participation en solo sous le nom d'équipe *OneForAll*
 - Résultat 🥇 : Pas de résultat attendu, CTF historique et mémoriel
 - Investigation autour de la Seconde Guerre mondiale
-- Rédaction d’un write-up complet disponible ici [Insérer lien]
+- Rédaction d’un write-up complet disponible [ici](https://github.com/NetworksCySec/OSINT/tree/main/Bleuet%20de%20France%20v4%20-%202025)
 
 ---
 
