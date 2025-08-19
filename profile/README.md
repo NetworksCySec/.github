@@ -33,7 +33,7 @@ Sur ce profil GitHub, vous trouverez :
 ### 🦊 Hack'Osint 2 CTF — **mai 2025**
 
 - Participation en équipe sous le nom *Osint Special Squad 117*
-- Résultat 🥇 : **Top 3/378** et qualifié pour la grande finale
+- Résultat 🥇 : **Top 2/378** en grande finale
 - Seulement 9 équipes ont fini entièrement
 - Investigation complète autour de hackers recherchés (fictif)
 - Rédaction d’un write-up complet disponible [ici](https://github.com/NetworksCySec/OSINT/tree/main/Hack'Osint%202%20-%202025)
