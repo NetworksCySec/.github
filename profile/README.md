@@ -22,6 +22,7 @@ Sur ce profil GitHub, vous trouverez :
 - 🧠 Renseignement sur les menaces (Threat Intelligence)
 - 🔐 Architecture & durcissement système (Linux/Windows)
 - 🧩 Investigations numériques éthiques
+- 🚨 Réponse à incident
 - 🛡️ Projets cybersécurité offensifs et défensifs
 - 🛰️ Veille technologique continue
 - 📜 Rédaction de rapports et write-ups techniques
