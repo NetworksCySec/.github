@@ -30,6 +30,13 @@ Sur ce profil GitHub, vous trouverez :
 
 ## 🏆 Participations et résultats (depuis mai 2025)
 
+### 🏦 Mission Vérité CTF #BIG2025  — **septembre 2025**
+
+- Participation en équipe sous le nom *Osint Special Squad 117*
+- Résultat 🥉 : **Top 3/378** en grande finale
+- Investigation complète autour de quatre personnages plongés dans la manipulation et la désinformation.
+- Rédaction de writes-up [disponibles ici](https://github.com/NetworksCySec/OSINT/tree/main/Mission%20V%C3%A9rit%C3%A9%20CTF%20%23BIG2025).
+
 ### 🦊 Hack'Osint 2 CTF — **mai 2025**
 
 - Participation en équipe sous le nom *Osint Special Squad 117*
