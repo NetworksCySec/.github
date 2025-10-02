@@ -31,12 +31,26 @@ Sur ce profil GitHub, vous trouverez :
 
 ## 🏆 Participations et résultats (depuis mai 2025)
 
+### 🪖 L'armée s'est fait hacker  — **septembre/Octobre 2025**
+
+- Participation en solo avec les autres membres qui ont mené l'enquête
+- Pas de résultat attendu
+- Cybercanular sophistiqué simulant une attaque contre le site “Armée de terre recrute”
+- Write-up disponible à la fin du CTF
+
 ### 🏦 Mission Vérité CTF #BIG2025  — **septembre 2025**
 
 - Participation en équipe sous le nom *Osint Special Squad 117*
 - Résultat 🥉 : **Top 3/218**
 - Investigation complète autour de quatre personnages plongés dans la manipulation et la désinformation.
 - Rédaction d'un write-up disponible [ici](https://github.com/NetworksCySec/OSINT/tree/main/Mission%20V%C3%A9rit%C3%A9%20CTF%20%23BIG2025).
+
+### 🛡️ Shutlock CTF  — **Juin 2025**
+
+- Participation en solo
+- Pas de résultat attendu (juste la partie OSINT)
+- Organisé la DGSI
+- Pas de write-up.
 
 ### 🦊 Hack'Osint 2 CTF — **mai 2025**
 
