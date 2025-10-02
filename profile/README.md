@@ -71,7 +71,7 @@ Sur ce profil GitHub, vous trouverez :
 ### 🪖 Bleuet de France v4 CTF — **mai 2025**
 
 - Participation en solo sous le nom d'équipe *OneForAll*
-- Résultat 🥇 : Pas de résultat attendu, CTF historique et mémoriel
+- Résultat 🏅 : Pas de résultat attendu, CTF historique et mémoriel
 - Investigation autour de la Seconde Guerre mondiale
 - Rédaction d’un write-up complet disponible [ici](https://github.com/NetworksCySec/OSINT/tree/main/Bleuet%20de%20France%20v4%20-%202025)
 
