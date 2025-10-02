@@ -63,7 +63,7 @@ Sur ce profil GitHub, vous trouverez :
 ### 🦏 Medileak 2 CTF — **mai 2025**
 
 - Participation en solo sous le nom d'équipe *OneForAll*
-- Résultat 🥇 : **Top 17/134** en étant premier en **solo**
+- Résultat 🥇 : **Top 17/134** en étant **premier** en **solo**
 - Seulement 22 équipes ont fini entièrement
 - Investigation complète autour d’un leak médical fictif
 - Rédaction d’un write-up complet disponible [ici](https://github.com/NetworksCySec/OSINT/tree/main/Medileak%202%20-%202025)
