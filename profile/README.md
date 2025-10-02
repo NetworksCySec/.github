@@ -31,7 +31,7 @@ Sur ce profil GitHub, vous trouverez :
 
 ## 🏆 Participations et résultats (depuis mai 2025)
 
-### 🪖 L'armée s'est fait hacker  — **septembre/octobre 2025**
+### 🪖 L'armée de Terre s'est fait hacker  — **septembre/octobre 2025**
 
 - Participation en solo avec les autres membres qui ont mené l'enquête
 - Pas de résultat attendu
