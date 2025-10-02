@@ -45,7 +45,7 @@ Sur ce profil GitHub, vous trouverez :
 - Investigation complète autour de quatre personnages plongés dans la manipulation et la désinformation.
 - Rédaction d'un write-up disponible [ici](https://github.com/NetworksCySec/OSINT/tree/main/Mission%20V%C3%A9rit%C3%A9%20CTF%20%23BIG2025).
 
-### 🛡️ Shutlock CTF  — **Juin 2025**
+### 🛡️ Shutlock CTF  — **juin 2025**
 
 - Participation en solo
 - Pas de résultat attendu (juste la partie OSINT)
