@@ -34,7 +34,7 @@ Sur ce profil GitHub, vous trouverez :
 ### 🪖 L'armée de Terre s'est fait hacker  — **septembre/octobre 2025**
 
 - Participation en solo avec les autres membres qui ont mené l'enquête
-- Pas de résultat attendu
+- Résultat 🏅 : Pas de résultat attendu
 - Cybercanular sophistiqué simulant une attaque contre le site “Armée de terre recrute”
 - Write-up disponible à la fin du CTF
 
@@ -48,7 +48,7 @@ Sur ce profil GitHub, vous trouverez :
 ### 🛡️ Shutlock CTF  — **juin 2025**
 
 - Participation en solo
-- Pas de résultat attendu (juste la partie OSINT)
+- Résultat 🏅 : Pas de résultat attendu (juste la partie OSINT)
 - Organisé la DGSI
 - Pas de write-up.
 
