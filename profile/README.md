@@ -29,9 +29,20 @@ Sur ce profil GitHub, vous trouverez :
 
 ---
 
-## 🏆 Participations et résultats (depuis mai 2025)
+## 🏆 Participations et résultats
 
-
+| 🗓️ Année | 🧩 CTF                             | 👥 Équipe / Solo                   | 🏛️ Organisateur          | 🏅 Résultat (nombres d'équipes) |
+|----------|-------------------------------------|------------------------------------|--------------------------|-----------------------------------|
+| 2026     | 🦏 Skopein CTF                      | Osint Special Squad 117 (équipe)   | EEIE                     | 🥇 Top 1 / 105                   |
+| 2026     | 🛡️ 404 CTF                          | Solo                               | DGSE                     | 📌 Pas de classement             |
+| 2026     | 🦏 Medileak 3                       | Osint Special Squad 117 (équipe)   | Oscar Zulu               | 🏅 Top 7 / 186                   |
+| 2026     | 🪖 Bleuet de France v5              | Osint Special Squad 117 (équipe)   | AEGE                     | 🏅 Top 4/220                     |
+| 2025     | 🪖 L'armée de Terre s'est fait hacker | Solo                             | Armée de Terre           | 📌 Pas de classement             |
+| 2025     | 🏦​ Mission Vérité CTF #BIG2025      | Osint Special Squad 117 (équipe)   | HACK'OLYTE / Blaireaux des Légendes| 🥉 Top 3 / 218         |
+| 2025     | 🛡️ Shutlock CTF                     | Solo                               | DGSI                     | 📌 Pas de classement             |
+| 2025     | 🦊 Hack'Osint 2                     | Osint Special Squad 117 (équipe)   | HACK'OLYTE               | 🥈 Top 2 / 378                   |
+| 2025     | 🦏 Medileak 2                       | OneForAll (solo)                   | Oscar Zulu               | 🏅 Top 17 / 134 (1er solo)       |
+| 2025     | 🪖 Bleuet de France v4              | OneForAll (solo)                   | AEGE                     | 📌 Pas de classement             |
 
 ---
 
