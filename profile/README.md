@@ -33,7 +33,8 @@ Sur ce profil GitHub, vous trouverez :
 
 | 🗓️ Année | 🧩 CTF                             | 👥 Équipe / Solo                   | 🏛️ Organisateur          | 🏅 Résultat (nombres d'équipes) |
 |----------|-------------------------------------|------------------------------------|--------------------------|-----------------------------------|
-| 2026     | 🐪 Skopein CTF - Rapport             | Osint Special Squad 117 (équipe)  | EEIE                     | 🥇 Top 1 / 145                   |
+| 2026     | 🌮 L'appel de la forêt              | Osint Special Squad 117 (équipe)   | Tacosint                 | 🏅 Top 5 / 202                   |
+| 2026     | 🐪 Skopein CTF - Rapport            | Osint Special Squad 117 (équipe)   | EEIE                     | 🥇 Top 1 / 145                   |
 | 2026     | 🕵 Search Party CTF 2026.06         | Polaris Intelligence Group (équipe)| Tracelabs                | 🏅 Top 17 / 124                  |
 | 2026     | 🐪 Skopein CTF - Challenges         | Osint Special Squad 117 (équipe)   | EEIE                     | 🥇 Top 1 / 145                   |
 | 2026     | 🛡️ 404 CTF                          | Solo                               | DGSE                     | 📌 Pas de classement             |
